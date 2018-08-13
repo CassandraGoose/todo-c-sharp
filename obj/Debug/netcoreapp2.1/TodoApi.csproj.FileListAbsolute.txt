@@ -1,0 +1,14 @@
+/Users/ctorske/workspace/playground/todoc#/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.deps.json
+/Users/ctorske/workspace/playground/todoc#/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/ctorske/workspace/playground/todoc#/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/ctorske/workspace/playground/todoc#/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/ctorske/workspace/playground/todoc#/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csprojAssemblyReference.cache
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.dll
+/Users/ctorske/workspace/playground/todoc#/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.pdb
